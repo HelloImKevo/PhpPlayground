@@ -26,3 +26,6 @@
 
 # Mac-specific
 .DS_Store
+
+# Apache NetBeans IDE
+/nbproject/private/
